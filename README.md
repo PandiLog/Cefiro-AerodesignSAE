@@ -13,7 +13,7 @@ Cefiro AeroDesign is a university engineering project aimed at designing and opt
 
 ## Key Contributions
 
-- Conducted preliminary analysis of multiple airfoils using XFLR5 under various Reynolds numbers.
+- Conducted preliminary analysis of multiple airfoils using XFLR5 under especific mission conditions.
 - Calculated lift (\(C_L\)) and drag (\(C_D\)) coefficients to estimate aerodynamic efficiency.
 - Determined minimum lift conditions required for takeoff based on expected aircraft weight and wing area.
 - Reconstructed a previous aircraft fuselage and main wing in SolidWorks for structural testing and load simulations.
