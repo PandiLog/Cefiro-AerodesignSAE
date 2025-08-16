@@ -18,5 +18,3 @@ Cefiro AeroDesign is a university engineering project aimed at designing and opt
 - Determined minimum lift conditions required for takeoff based on expected aircraft weight and wing area.
 - Reconstructed a previous aircraft fuselage and main wing in SolidWorks for structural testing and load simulations.
 - Prepared supporting Excel documents with comparisons of lift/drag ratios and wing loading.
-
-## Repository Structure
